@@ -162,13 +162,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## 👨‍💻 Author
-
-Made with ❤️ by **[Your Name]**
-- GitHub: [@ariba18](https://github.com/ariba18)
-
----
-
 ## 📸 Screenshots
 
 | Login | Vehicle Select | Car Slots |
