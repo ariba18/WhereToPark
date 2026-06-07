@@ -4,7 +4,7 @@ An Android app for finding and booking parking slots for Cars and Bikes, with Go
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🔐 **Login & Register** — Firebase Authentication for secure user sign-in and account creation
 - 🚗 **Car Parking** — 10 car slots (C1–C10), colour-coded for availability — ₹100/hr
@@ -97,7 +97,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 | Login | Vehicle Select | Car Slots |
 |:-----:|:--------------:|:---------:|
