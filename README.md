@@ -180,11 +180,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## 👨‍💻 Author
-
-Made with ❤️ by **[Your Name]**
-- GitHub: [@your-username](https://github.com/your-username)
-
----
-
 > ⭐ If this project helped you, give it a star!
