@@ -1,6 +1,6 @@
 # 🅿️ Where to Park
 
-An Android app for finding and booking parking slots for cars and bikes, with Google Maps integration and Firebase backend — built for Pune, India.
+An Android app for finding and booking parking slots for cars and bikes, with Google Maps integration and Firebase backend.
 
 ---
 
