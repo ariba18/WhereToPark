@@ -84,37 +84,6 @@ WhereToParkProject/
 - A [Firebase project](https://console.firebase.google.com/) with Auth and Realtime Database enabled
 - Android device or emulator running API 21+
 
-### Setup
-
-**1. Clone the repository**
-```bash
-git clone https://github.com/ariba18/WhereToPark.git
-cd WhereToPark
-```
-
-**2. Open in Android Studio**
-```
-File → Open → Select the cloned folder
-```
-
-**3. Add your Google Maps API Key**
-
-In `local.properties` (create it if it doesn't exist):
-```
-MAPS_API_KEY=your_google_maps_api_key_here
-```
-
-**4. Add Firebase config**
-
-- Go to [Firebase Console](https://console.firebase.google.com/) → your project → Add Android app
-- Download `google-services.json` and place it inside the `app/` folder
-
-**5. Sync & Run**
-
-Click **Sync Now** in Android Studio, then hit ▶️ Run.
-
-> ⚠️ `local.properties` and `google-services.json` contain sensitive keys and are excluded from Git via `.gitignore`. Never commit them.
-
 ---
 
 ## 🔑 Google Maps API Setup
@@ -143,16 +112,6 @@ Click **Sync Now** in Android Studio, then hit ▶️ Run.
 | `READ_PHONE_STATE` | Device identification |
 | `ACCESS_COARSE_LOCATION` | Approximate location for nearby slots |
 | `ACCESS_FINE_LOCATION` | Precise GPS for navigation |
-
----
-
-## 🤝 Contributing
-
-1. Fork the repo
-2. Create a feature branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m "Add your feature"`
-4. Push the branch: `git push origin feature/your-feature`
-5. Open a Pull Request
 
 ---
 
