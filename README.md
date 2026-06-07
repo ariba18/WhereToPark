@@ -4,22 +4,6 @@ An Android app for finding and booking parking slots for cars and bikes, with Go
 
 ---
 
-## 📸 Screenshots
-
-| Login | Vehicle Select | Car Slots |
-|:-----:|:--------------:|:---------:|
-| ![Login](screenshots/login.jpeg) | ![Vehicle](screenshots/vehicle_selection.jpeg) | ![Car Slots](screenshots/car_slots.jpeg) |
-
-| Book Hours | Confirm Booking | Bike Slots |
-|:----------:|:---------------:|:----------:|
-| ![Book Hours](screenshots/car_booking_hours.jpeg) | ![Confirm](screenshots/car_booking_confirm.jpeg) | ![Bike Slots](screenshots/bike_slots.jpeg) |
-
-| In-App Map | Google Maps View |
-|:----------:|:----------------:|
-| ![Map](screenshots/map_inapp.jpeg) | ![Google Maps](screenshots/map_google.jpeg) |
-
----
-
 ## ✨ Features
 
 - 🔐 **Login & Register** — Firebase Authentication for secure user sign-in and account creation
@@ -82,7 +66,7 @@ WhereToParkProject/
 │   │
 │   └── build.gradle                            ← App-level dependencies
 │
-├── screenshots/                                ← App screenshots for README
+├── screenshots/                                ← App screenshots
 ├── build.gradle                                ← Project-level Gradle config
 ├── local.properties                            ← 🔒 API keys (NOT committed to Git)
 ├── google-services.json                        ← 🔒 Firebase config (NOT committed to Git)
@@ -99,8 +83,6 @@ WhereToParkProject/
 - A [Google Maps API Key](https://console.cloud.google.com/)
 - A [Firebase project](https://console.firebase.google.com/) with Auth and Realtime Database enabled
 - Android device or emulator running API 21+
-
----
 
 ### Setup
 
@@ -177,6 +159,29 @@ Click **Sync Now** in Android Studio, then hit ▶️ Run.
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ by **[Your Name]**
+- GitHub: [@ariba18](https://github.com/ariba18)
+
+---
+
+## 📸 Screenshots
+
+| Login | Vehicle Select | Car Slots |
+|:-----:|:--------------:|:---------:|
+| ![Login](screenshots/login.jpeg) | ![Vehicle](screenshots/vehicle_selection.jpeg) | ![Car Slots](screenshots/car_slots.jpeg) |
+
+| Book Hours | Confirm Booking | Bike Slots |
+|:----------:|:---------------:|:----------:|
+| ![Book Hours](screenshots/car_booking_hours.jpeg) | ![Confirm](screenshots/car_booking_confirm.jpeg) | ![Bike Slots](screenshots/bike_slots.jpeg) |
+
+| In-App Map | Google Maps View |
+|:----------:|:----------------:|
+| ![Map](screenshots/map_inapp.jpeg) | ![Google Maps](screenshots/map_google.jpeg) |
 
 ---
 
