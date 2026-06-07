@@ -75,19 +75,6 @@ WhereToParkProject/
 
 ---
 
-## 🔑 Google Maps API Setup
-
-1. Go to [Google Cloud Console](https://console.cloud.google.com/)
-2. Create or select a project
-3. Enable **Maps SDK for Android** and **Directions API**
-4. Go to **Credentials → Create Credentials → API Key**
-5. Paste the key into `local.properties`:
-   ```
-   MAPS_API_KEY=AIza...your_key_here
-   ```
-
----
-
 ## 📋 Permissions
 
 | Permission | Why it's needed |
