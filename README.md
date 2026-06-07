@@ -106,7 +106,7 @@ WhereToParkProject/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/WhereToPark.git
+git clone https://github.com/ariba18/WhereToPark.git
 cd WhereToPark
 ```
 
