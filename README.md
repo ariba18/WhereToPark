@@ -1,6 +1,6 @@
 # 🅿️ Where to Park
 
-An Android app for finding and booking parking slots for cars and bikes, with Google Maps integration and Firebase backend.
+An Android app for finding and booking parking slots for Cars and Bikes, with Google Maps integration and Firebase backend.
 
 ---
 
@@ -12,7 +12,7 @@ An Android app for finding and booking parking slots for cars and bikes, with Go
 - 📍 **Slot Map View** — Tap the pin on any slot to see its exact location on Google Maps
 - 🗺️ **Navigate to Slot** — Get turn-by-turn directions from your current location
 - ⏱️ **Hour-based Booking** — Select hours, see live total, confirm booking in one flow
-- 🔴🟢 **Live Slot Status** — Green = booked by you, Blue = available, Grey = taken
+- 🟩🟦 **Live Slot Status** — Green= booked by you, Blue = available, Grey = taken
 - 👨‍💼 **Admin Panel** — Admins can register vehicles and manage the parking system
 - 🔄 **Firebase Realtime DB** — Slot availability syncs in real time across all users
 
