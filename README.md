@@ -75,17 +75,6 @@ WhereToParkProject/
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Android Studio (Hedgehog or newer recommended)
-- A [Google Maps API Key](https://console.cloud.google.com/)
-- A [Firebase project](https://console.firebase.google.com/) with Auth and Realtime Database enabled
-- Android device or emulator running API 21+
-
----
-
 ## 🔑 Google Maps API Setup
 
 1. Go to [Google Cloud Console](https://console.cloud.google.com/)
