@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936553545774",
+    "project_id": "where-to-park-42459",
+    "storage_bucket": "where-to-park-42459.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936553545774:android:dc78d84e4cb16d75345fbf",
+        "android_client_info": {
+          "package_name": "com.example.wheretoparkproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxHHs5hTNMu37SUfgzwIyYz930EBi8plc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

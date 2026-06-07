@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simple two-wheeler motorbike silhouette (side view, like car icon) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Rear wheel -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M6,16m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0"/>
+    <!-- Front wheel -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18,16m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0"/>
+    <!-- Motorbike body: rear wheel hub -> seat -> tank -> headlight/handlebar -> front fork -> front wheel hub -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M6,16 L7,14 L8,13 L10,12 L14,12 L16,11.5 L18,12 L19,13 L18,14.5 L16,15 L14,15 L10,15 L8,15.5 L7,16 Z"/>
+</vector>

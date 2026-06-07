@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Where to Park</string>
+    <string name="vehicle_selection_title">Select vehicle type</string>
+    <string name="car_parking">Car parking</string>
+    <string name="bike_parking">Bike parking</string>
+    <string name="car_slots_hint">Car slots C1–C10: blue = available, grey = unavailable. Tap available to book ($100/hr).</string>
+    <string name="bike_slots_hint">Bike slots B1–B10: blue = available, grey = unavailable. Tap available to book ($50/hr).</string>
+    <string name="show_on_map">Show on Map</string>
+    <string name="parking_map_title">Parking Map</string>
+    <string name="parking_marker_title">WhereToPark Lot</string>
+    <string name="parking_marker_snippet">Hardcoded parking location</string>
+    <string name="location_permission_missing">Location permission denied. Showing parking location only.</string>
+</resources>
