@@ -6,19 +6,19 @@ An Android app for finding and booking parking slots for Cars and Bikes, with Go
 
 ##  Features
 
-- 🔐 **Login & Register** — Firebase Authentication for secure user sign-in and account creation
-- 🚗 **Car Parking** — 10 car slots (C1–C10), colour-coded for availability — ₹100/hr
-- 🛵 **Bike Parking** — 10 bike slots (B1–B10), colour-coded for availability — ₹50/hr
-- 📍 **Slot Map View** — Tap the pin on any slot to see its exact location on Google Maps
-- 🗺️ **Navigate to Slot** — Get turn-by-turn directions from your current location
-- ⏱️ **Hour-based Booking** — Select hours, see live total, confirm booking in one flow
-- 🟩🟦 **Live Slot Status** — Green= booked by you, Blue = available, Grey = taken
-- 👨‍💼 **Admin Panel** — Admins can register vehicles and manage the parking system
-- 🔄 **Firebase Realtime DB** — Slot availability syncs in real time across all users
+-  **Login & Register** — Firebase Authentication for secure user sign-in and account creation
+-  **Car Parking** — 10 car slots (C1–C10), colour-coded for availability — ₹100/hr
+-  **Bike Parking** — 10 bike slots (B1–B10), colour-coded for availability — ₹50/hr
+-  **Slot Map View** — Tap the pin on any slot to see its exact location on Google Maps
+-  **Navigate to Slot** — Get turn-by-turn directions from your current location
+-  **Hour-based Booking** — Select hours, see live total, confirm booking in one flow
+-  **Live Slot Status** — Green= booked by you, Blue = available, Grey = taken
+-  **Admin Panel** — Admins can register vehicles and manage the parking system
+-  **Firebase Realtime DB** — Slot availability syncs in real time across all users
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |-----------|------------|
@@ -32,7 +32,7 @@ An Android app for finding and booking parking slots for Cars and Bikes, with Go
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 WhereToParkProject/
@@ -75,7 +75,7 @@ WhereToParkProject/
 
 ---
 
-## 📋 Permissions
+##  Permissions
 
 | Permission | Why it's needed |
 |------------|-----------------|
@@ -91,7 +91,7 @@ WhereToParkProject/
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
