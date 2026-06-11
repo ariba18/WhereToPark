@@ -112,7 +112,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 | ![Map](screenshots/map_inapp.jpeg) | ![Google Maps](screenshots/map_google.jpeg) |
 
 ---
-## Author
-
-**Ariba Khan**
+## Author : **Ariba Khan**
 
